@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingsayz&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/PHP-#777BB4?style=flat-square&logo=PHP&logoColor=white"/>
