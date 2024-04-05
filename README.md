@@ -34,7 +34,7 @@ i'm falling in love with 🍔🍗🍕, and like to hang out with my friends over
 
 
 <h2>AWS Cloud </h2>
-<span><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon ELB-8C4FFF?style=flat-square&logo=awselasticloadbalancing&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon Cloud Watch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon ELB-8C4FFF?style=flat-square&logo=awselasticloadbalancing&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon Cloud Watch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/> 
 
 
 
